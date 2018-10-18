@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Le_Lo</string>
+
+    <string-array name="continents">
+        <item>Americas</item>
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+
+    <string name="info_request_title">title please</string>
+
+</resources>
