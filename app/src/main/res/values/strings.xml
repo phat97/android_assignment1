@@ -7,8 +7,10 @@
         <item>Asia</item>
         <item>Europe</item>
         <item>Oceania</item>
+        <item>Polar</item>
     </string-array>
 
     <string name="info_request_title">title please</string>
+    <string name="students">Phat Le, Ian Lo</string>
 
 </resources>

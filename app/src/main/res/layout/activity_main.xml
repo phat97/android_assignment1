@@ -6,13 +6,13 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <include layout="@layout/toolbar_main" android:id="@+id/toolbar" />
+
     <ListView
         android:id="@+id/continents"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:entries="@array/continents"/>
-
-
 
 
 </LinearLayout>
